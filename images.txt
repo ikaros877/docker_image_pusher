@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 dyrnq/open-webui:latest
 infiniflow/ragflow:latest
-yahboomtechnology/ros-melodic:latest
+yahboomtechnology/ros-melodic:1.4.1
